@@ -1,0 +1,82 @@
+
+/*
+    DEMO STYLE
+*/
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+
+body {
+    font-family: 'San Francisco',Helvetica,Arial,serif;
+    background: #EBEBEB;
+}
+.list-group-item {
+    background: #FCFCFC;
+
+}
+.list-item {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+
+}
+.f-14 {
+    font-size: 14px;
+}
+.pl-1{
+    padding-left: 1rem;
+}
+.bg-white {
+    background: #fff;
+}
+.ph{
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+.nav-stats-top {
+    background: #fff;
+    padding:1.8rem 0rem;
+}
+.nav-link {
+    color: #fff;
+}
+.custom-nav {
+    background-color: #2196F3;
+    padding: 1.2rem;
+}
+.brand {
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding-left: 7px;
+    font-family: 'San Francisco',Helvetica,Arial,serif;
+    font-size: 20.0px;
+    text-align: justify;
+    line-height: 24.0px;
+}
+.color-white {
+    color: #fff;
+}
+.stats-grey-text {
+    top: 8px;
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding-left: 5px;
+    padding-right: 10px;
+    font-family: 'San Francisco',Helvetica,Arial,serif;
+    font-size: 14.0px;
+    color: 	#717171;
+    text-align: justify;
+    line-height: 16.0px;
+}
+.dashboard-icon {
+    color: rgba(0,0,0,.5);
+    border-color: rgba(0,0,0,.1);
+}
+
+.bottom-section  > div {
+    padding: 1rem;
+ }
+.title {
+    padding-left: 1rem;
+}
+
+
